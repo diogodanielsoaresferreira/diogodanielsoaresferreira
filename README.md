@@ -1,5 +1,5 @@
 ### Diogo Ferreira
-Hi! 👋 I’m Diogo Ferreira and I am Data Scientist @ Talkdesk, in Portugal (working remotely).
+Hi! 👋 I’m Diogo Ferreira and I am Software Engineer @ Talkdesk, in Portugal.
 
 [![Personal Website](https://img.shields.io/badge/-website-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACQ1BMVEUAAABQqP5PqP5UrP9JmehRp/9Sp/5Sqf5Qp/5Np/1Tqf9Uqf9Vqv9Vqv9Vqv9Vqv9Uqf9Tqf5Kp/1UrP9VrP9Vq/9Vqv9Vqv9Vq/9TqfxFkd/I//9Tp/hKleAlS3ASJjpz8/9Wr/81bKJFi9FTqf5UqP0sWIVWrP9Uqf9Vqv9Vqv9Vqv9Vqv9Vqv9Vqv9Vqv9Vqv9Uqf9Wq/9Vqv9Uqf9Uqv9TpvpVqv9Tqf4ow/9TqP1Pn+5Vq/9Uqf4zkvtQpf5Vqv9Vq/9Vqv9Vqv5Vqv9Uqf5Rpv5Qqf1Tqf5Uqf9Vqv9Vqv9Vqv9Vqv9Uqf9Tqf5Lo/1Vqv9Vqv9Vqv9Vqv9JktxSpPVWrP9Vqv9Vqv9Vqv9Wq/9IkdkSJDUbN1IiRWhChMZVqv5Vqv9Wq/9Ll+IfQF8zZ5sPHi1Fis8+fLogQGA9ebZVq/9Vqv8sWIQuXIlWrP9Om+kePFtIkNdXr/9EiMwfP15Pnu1QofEfPl5JkthXrv9Wq/9TpvgiRGdChchWrP9UqPskSm5AgMFKlN4bNlE3bqQyY5VAgMBVq/8pU3w6dK5Wrf9Vqf0mTHIuXYsePVwLFiIjRmkwX49BgsNWrf82bKIuXIpXr/9HjtQfPl1KlN5GjNIePFtHj9ZXrv9Wq/8/fr0ePVs7d7IfPl05cqtWq/9Tp/kkR2tEic1WrP8tXIoUKD0iRmlAgMBVqfxVq/9SpPYhQWJDh8tWrP9OnOtTpvlWrP9Vqv9Vqv9SpPY0aZ5OnOpVqv9Vqv9Vqv////8m6vrBAAAAUXRSTlMAAAAAAAAAAAABMpXX+PjYljMBBWHb/v7cYgUAYe/wZwEy2tw0lf7/l9fZ+Pn4+dfalv7/lzPb3DUAYvDwZAAFYtz//91kBQE0l9r5+dqYNQH9OnnCAAAAAWJLR0TAE2Hf+AAAAAd0SU1FB+QLGBIiHXhq4LIAAADdSURBVAjXAdIALf8AAAEJCgsMDQ4PEBESAgAAAxMUFRZRUlNUFxgZGgQAGxwdVVZXWFlaW1weHyAAISJdXl9gYWJjZGVmIyQAJSZnaGlqa2xtbm9wJygAKXFyc3R1dnd4eXp7fCoAK31+f4CBgoOEhYaHiCwALYmKi4yNjo+QkZKTlC4AL5WWl5iZmpucnZ6foDAAMTKhoqOkpaanqKmqMzQANTarrK2ur7CxsrO0NzgAOTo7tba3uLm6u7w8PT4ABT9AQUK9Ur6/Q0RFRgYAAAdHSElKS0xNTk9QCACBWEfz2cFe9AAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0xMS0yNFQxODozNDoyOS0wNTowMN8rpE0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMTEtMjRUMTg6MzQ6MjktMDU6MDCudhzxAAAAAElFTkSuQmCC&logoColor=white&link=https://diogodanielsoaresferreira.github.io/)](https://diogodanielsoaresferreira.github.io/)
 [![Linkedin: Diogo Ferreira](https://img.shields.io/badge/-linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-ferreira/)](https://www.linkedin.com/in/diogo-ferreira/)
@@ -7,8 +7,7 @@ Hi! 👋 I’m Diogo Ferreira and I am Data Scientist @ Talkdesk, in Portugal (w
 [![Dev.to: diogodanielsoaresferreira](https://img.shields.io/badge/-Dev.to-black?logo=Dev.To&logoColor=white&link=https://dev.to/diogodanielsoaresferreira)](https://dev.to/diogodanielsoaresferreira)
 
 
-- I’m currently working on NLP-related projects, using ![](https://img.shields.io/badge/code-python-informational?style=flat&logo=python&logoColor=yellow&color=blue) and ![](https://img.shields.io/badge/code-java-informational?style=flat&logo=java&logoColor=orange&color=blue).
-- I am passionate about machine learning and MLOps.
-- I love learning everyday! I am always doing online courses related to machine learning, software engineering, or programming in general.
+- I’m currently working with cloud data-driven architectures using Java ![](https://img.shields.io/badge/code-java-informational?style=flat&logo=java&logoColor=orange&color=blue) and using awesome technologies, such as Apache Camel, Quarkus, Kafka, Elastic Search, Databricks, and so much more.
+- I love learning everyday! I am always doing online courses related to software engineering.
 - I also blog when I am bored - you can check it out [here](https://diogodanielsoaresferreira.github.io/), [here](https://medium.com/@diogoferreira_2387) or [here](https://dev.to/diogodanielsoaresferreira).
 
