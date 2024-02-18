@@ -6,8 +6,7 @@ Hi! 👋 I’m Diogo Ferreira and I am a Software Engineer @ Timefold, in Belgiu
 [![Medium: diogodsferreira](https://img.shields.io/badge/-medium-black?logo=Medium&logoColor=white&link=https://medium.com/@diogodsferreira)](https://medium.com/@diogodsferreira)
 [![Dev.to: diogodanielsoaresferreira](https://img.shields.io/badge/-Dev.to-black?logo=Dev.To&logoColor=white&link=https://dev.to/diogodanielsoaresferreira)](https://dev.to/diogodanielsoaresferreira)
 
+I’m currently working with cloud data-driven architectures using Java, Kotlin and Scala and using awesome technologies, such as Apache Camel, Quarkus, Kafka, Elastic Search, Flink, and so much more.
 
-- I’m currently working with cloud data-driven architectures using Java, Kotlin and Scala and using awesome technologies, such as Apache Camel, Quarkus, Kafka, Elastic Search, Flink, and so much more.
-- I love learning everyday! I am always doing online courses related to software engineering.
-- I also blog when I am bored - you can check it out [here](https://diogodanielsoaresferreira.github.io/), [here](https://medium.com/@diogodsferreira) or [here](https://dev.to/diogodanielsoaresferreira).
+I also blog when I am bored - you can check it out [here](https://diogodanielsoaresferreira.github.io/).
 
