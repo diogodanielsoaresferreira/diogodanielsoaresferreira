@@ -6,7 +6,7 @@ Hi! 👋 I’m Diogo Ferreira and I am a Software Engineer @ Timefold, in Belgiu
 [![Medium: diogodsferreira](https://img.shields.io/badge/-medium-black?logo=Medium&logoColor=white&link=https://medium.com/@diogodsferreira)](https://medium.com/@diogodsferreira)
 [![Dev.to: diogodanielsoaresferreira](https://img.shields.io/badge/-Dev.to-black?logo=Dev.To&logoColor=white&link=https://dev.to/diogodanielsoaresferreira)](https://dev.to/diogodanielsoaresferreira)
 
-I have 6+ years of experience building scalable, distributed systems in the cloud. I specialize in Java, Kotlin and Python, and have a strong focus on clean architecture, observability and reliability at scale.
+I am aSoftware Engineer with 7+ years of experience building scalable, distributed systems in the cloud. I specialize in Java, Kotlin and Python, and have a strong focus on clean architecture, observability and reliability at scale
 
 I also blog when I am bored - you can check it out [here](https://diogodanielsoaresferreira.github.io/).
 
